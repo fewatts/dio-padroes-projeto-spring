@@ -20,5 +20,5 @@ Este é um projeto de exemplo que demonstra uma API de músicas (link de sets ou
 
 ## Padrões de projeto
 
--Singleton
--Repository
+- Singleton
+- Repository
