@@ -17,3 +17,8 @@ Este é um projeto de exemplo que demonstra uma API de músicas (link de sets ou
 - Cadastrar uma nova música.
 - Atualizar uma música existente.
 - Excluir uma música por ID.
+
+## Padrões de projeto
+
+-Singleton
+-Repository
